@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    font-family: "Raleway", sans-serif;
+}
+
+/* LIMITE ALTURA MAXIMA DE IMAGEN CAROUSEL */
+.carousel-item img {
+    max-height: 700px;
+}
+
+/* IGUALAR ALTURA DE LAS IMG DE LAS CARD, HAY UNA IMG CON ALTURA LIGERAMENTE SUPERIOR AL RESTO */
+.card-img-top {
+    max-height: 169px;
+}
+
+/* Color iconos del footer*/
+footer i {
+    color: white;
+}
