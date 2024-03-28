@@ -8,6 +8,11 @@ body {
     max-height: 700px;
 }
 
+/* Modifica color del icono de avion en header seccion ¿Quienes Somos?*/
+#quienessomos .fa-plane {
+    color: white;
+}
+
 /* IGUALAR ALTURA DE LAS IMG DE LAS CARD, HAY UNA IMG CON ALTURA LIGERAMENTE SUPERIOR AL RESTO */
 .card-img-top {
     max-height: 169px;
